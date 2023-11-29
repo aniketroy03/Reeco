@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productImage": "/static/media/avocado.b65e885eec2bd4bdfdf5.jpg",
+      "product": "Chicken Boneless",
+      "brand": "Hormel Black Labelmany",
+      "price": "$60.67 / 6 *1LB",
+      "quantity": "0x6 * 1LB",
+      "total": "$9000.88"
+    },
+    {
+      "productImage": "/static/media/avocado.b65e885eec2bd4bdfdf5.jpg",
+      "product": "Chicken Boneless",
+      "brand": "Hormel Black Labelmany",
+      "price": "$60.67 / 6 *1LB",
+      "quantity": "0x6 * 1LB",
+      "total": "$9000.88"
+    },
+    {
+      "productImage": "/static/media/avocado.b65e885eec2bd4bdfdf5.jpg",
+      "product": "Chicken Boneless",
+      "brand": "Hormel Black Labelmany",
+      "price": "$60.67 / 6 *1LB",
+      "quantity": "0x6 * 1LB",
+      "total": "$9000.88"
+    }
+  ]
+}
